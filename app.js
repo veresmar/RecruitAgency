@@ -24,7 +24,7 @@ document.querySelectorAll('.accordion_item_trigger').forEach((item) =>
 $('.owl-carousel').owlCarousel({
   loop:true,
   autoplay:true,
-  autoplayTimeout:1000,
+  autoplayTimeout:2000,
   margin:10,
   nav:false,
   dots:false,
